@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.srf {
+    color: red;
+    background-color: blue;
+}
